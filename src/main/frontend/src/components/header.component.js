@@ -9,7 +9,7 @@ export default function Header() {
                 <ul className="navbar-nav mr-auto">
                     <li className="navbar-brand">Excerise Tracker</li>
                     <li className="navbar-item">
-                        <Link to={"/"} className="nav-link">Exercises</Link>
+                        <Link to={"/"} className="nav-link">Exercise Logs</Link>
                     </li>
                     <li className="navbar-item">
                         <Link to={"/create-exercise-log"} className="nav-link">Create Exercise Log</Link>
